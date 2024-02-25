@@ -1,5 +1,5 @@
-# Time-table_Generator
-Real-time application implemented without using Genetic Algorithm
+# Classify
+Real-time timetable generator application implemented without using Genetic Algorithm
 
 Features:
 - Tkinter Gui based application which takes the timetable imput for a single section and computes the timetable for  'n' user entered sections.
